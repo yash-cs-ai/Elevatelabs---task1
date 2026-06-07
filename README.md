@@ -30,7 +30,7 @@ This project focuses on the initial and critical data preprocessing stage of the
 ## Tools & Libraries Used
 * **Language:** Python 3.11
 * **Libraries:** Pandas 
-* **Environment:** Jupyter Notebook / Google Colab 
+* **Environment:** Jupyter Notebook  
 
 ---
 
