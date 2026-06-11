@@ -1,4 +1,6 @@
-# Task 1: Data Cleaning and Preprocessing
+# Data Cleaning and Preprocessing
+**Data Analyst Internship | Task 1**
+
 
 ## Project Overview
 This project focuses on the initial and critical data preprocessing stage of the data analytics pipeline. Using a raw dataset from Kaggle (Netflix Movies and TV Shows - https://www.kaggle.com/datasets/shivamb/netflix-shows), the objective was to identify, handle, and resolve common data quality issues—such as missing values, duplicate records, and inconsistent data formatting—to produce a structured, clean dataset optimized for analysis or modeling.
